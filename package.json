@@ -1,6 +1,6 @@
 {
-  "name": "stickynotes-to-shapes",
-  "description": "Select sticky notes on the board, and then click the app icon to change the selected sticky notes to shapes. This app uses Vite.",
+  "name": "next-shape-predictor",
+  "description": "Select shape on the board, and then click the app icon to predict the next shape. This app uses Vite.",
   "version": "0.0.0",
   "keywords": [
     "Miro SDK",
